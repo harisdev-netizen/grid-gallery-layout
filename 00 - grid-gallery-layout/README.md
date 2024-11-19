@@ -1,15 +1,10 @@
 # CSS Grid Practice - Responsive Layouts
 
-## Welcome! 👋
-
-Thank you for visiting my CSS Grid practice repository.   This repository focuses on exploring and practicing CSS Grid to create different responsive layouts. It's an ongoing effort to refine my skills in grid-based design and improve my ability to build clean, adaptive, and user-friendly layouts.
-
 ## Table of Contents
 
 - [Overview](#overview)
   - [The Goal](#the-goal)
   - [Screens](#screens)
-  - [Links](#links)
 - [My Process](#my-process)
   - [Built With](#built-with)
   - [What I Learned](#what-i-learned)
@@ -35,11 +30,6 @@ The objective of this project is to:
 
 #### Mobile Preview
 ![Mobile Preview](./assets/images/mobile-preview.png)
-
-### Links
-
-- Repository URL: [GitHub Repository](https://github.com/username/grid-practice)
-- Live Demo URL: [Live Demo](https://grid-practice-demo.netlify.app/)
 
 ## My Process
 
