@@ -24,6 +24,7 @@ body {
   grid-template-columns: repeat(12, 1fr);
   grid-template-rows: repeat(6, 1fr);
   grid-gap: 10px;
+
 }
 
 .box:nth-child(1) {
@@ -156,5 +157,15 @@ body {
   .box:nth-child(27),
   .box:nth-child(28) {
     grid-column: span 1;
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .grid {
+    display: block;
+  }
+
+  .box {
+    margin: 10px 0;
   }
 }
