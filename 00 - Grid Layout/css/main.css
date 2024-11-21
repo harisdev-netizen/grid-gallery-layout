@@ -1,7 +1,7 @@
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
+  grid__box-sizing: border-grid__box;
 }
 
 body {
@@ -37,7 +37,7 @@ img {
   height: calc(100% - 1px);
   padding: 5px;
   object-fit: cover;
-  box-sizing: border-box;
+  grid__box-sizing: border-grid__box;
   border-radius: 12px;
 }
 
@@ -94,6 +94,7 @@ img {
   .photo-grid {
     grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
   }
+
   .photo-grid__item--color1 {
     grid-row: span 2;
   }
